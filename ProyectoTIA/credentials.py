@@ -1,0 +1,5 @@
+host = "servidorbdgal.postgres.database.azure.com"
+dbname = "postgres"
+user = "user"
+password = "Usg+x4&Gr2'9.n"  
+sslmode = "require"
